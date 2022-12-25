@@ -7,7 +7,7 @@ It is focused on the following topics:
 ## 1. Bioinformatics Stronghold
 A variety of bioinformatics topics: computational mass spectrometry, alignment, dynamic programming, genome assembly, genome rearrangements, phylogeny, probability, string algorithms and others.
 
-### 1.1. DNA
+### 1.1. DNA - counting nucleotides
 #### A rapid Introduction to Molecular Biology
 
 Making up all living material, the cell is considered to be the building block of life. The nucleus, a component of most eukaryotic cells, was identified as the hub of cellular activity 150 years ago. Viewed under a light microscope, the nucleus appears only as a darker region of the cell, but as we increase magnification, we find that the nucleus is densely filled with a stew of macromolecules called chromatin. During mitosis (eukaryotic cell division), most of the chromatin condenses into long, thin strings called chromosomes.
