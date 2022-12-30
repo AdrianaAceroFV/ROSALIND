@@ -12,5 +12,7 @@ A variety of bioinformatics topics: computational mass spectrometry, alignment, 
 
 1.3. **REVC - Complementing a Strand of DNA**:  [[info]](https://rosalind.info/problems/revc/) [[code]](https://github.com/AdrianaAceroFV/ROSALIND/blob/17b7de7e22e1b70d83b68cb1095d86855417d721/CODE/REVC.py)
 
+1.4. **FIB - Rabbits and Recurrence Relations**:  [[info]](https://rosalind.info/problems/fib/) [[code]](https://github.com/AdrianaAceroFV/ROSALIND/blob/952eede5f8a9878cbe72c6db821bb20e618dac12/CODE/FIB.py)
+
 ## 2. Bioinformatics Armory
 Ready-to-use software tools abound for bioinformatics analysis. In the Armory are similar problems by using existing tools.
