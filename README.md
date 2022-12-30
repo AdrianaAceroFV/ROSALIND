@@ -2,6 +2,7 @@
 <img src="http://rosalind.info/static/img/logo.png?v=1560257990"  width=200 align="right">
 
 #### Collection of Bioinformatic problems from https://rosalind.info/
+My profile: https://rosalind.info/users/Adriana_A0/
 
 ## 1. Bioinformatics Stronghold
 A variety of bioinformatics topics: computational mass spectrometry, alignment, dynamic programming, genome assembly, genome rearrangements, phylogeny, probability, string algorithms and others.
