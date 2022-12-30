@@ -9,12 +9,12 @@
 def reverse_complement(s):
     if len(s)<=1000:
         if set(s)=={'A','C','G','T'}:
-            sc =  s.replace("A","X").replace("T","A").replace("X","T").replace("C","Y").replace("G","C").replace("Y","G")
-            return print(sc)
+            sc =  s.replace("A","X").replace("T","A").replace("X","T").replace("C","Y").replace("G","C").replace("Y","G") # complements
+            return print(sc[::-1]) # reverse string
         else:
             print("DNA string has invalid nucleotides")    
     else:
         print("DNA string too long")
 
-s = "AAAACCCGGT"
-reverse_complement(s)
+s = "AATTCCGG"
+reverse_complement(s) #prints CCGGAATT
