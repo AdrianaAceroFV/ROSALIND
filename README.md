@@ -15,5 +15,7 @@ A variety of bioinformatics topics: computational mass spectrometry, alignment, 
 
 1.4. **FIB - Rabbits and Recurrence Relations**:  [[info]](https://rosalind.info/problems/fib/) [[code]](https://github.com/AdrianaAceroFV/ROSALIND/blob/952eede5f8a9878cbe72c6db821bb20e618dac12/CODE/FIB.py)
 
+1.5. **GC - Computing GC Content**:  [[info]](https://rosalind.info/problems/gc/) [[code]](https://github.com/AdrianaAceroFV/ROSALIND/blob/49ea0b6e9873f10d9c04995f044db39ae8d1c76c/CODE/GC.py)
+
 ## 2. Bioinformatics Armory
 Ready-to-use software tools abound for bioinformatics analysis. In the Armory are similar problems by using existing tools.
