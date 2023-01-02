@@ -17,5 +17,7 @@ A variety of bioinformatics topics: computational mass spectrometry, alignment, 
 
 1.5. **GC - Computing GC Content**:  [[info]](https://rosalind.info/problems/gc/) [[code]](https://github.com/AdrianaAceroFV/ROSALIND/blob/49ea0b6e9873f10d9c04995f044db39ae8d1c76c/CODE/GC.py)
 
+1.6. **HAMM - Counting Point Mutations**:  [[info]](https://rosalind.info/problems/hamm/) [[code]](https://github.com/AdrianaAceroFV/ROSALIND/blob/59be35e03785557e5b967614016dd2052986c31f/CODE/HAMM.py)
+
 ## 2. Bioinformatics Armory
 Ready-to-use software tools abound for bioinformatics analysis. In the Armory are similar problems by using existing tools.
