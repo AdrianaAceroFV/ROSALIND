@@ -19,5 +19,7 @@ A variety of bioinformatics topics: computational mass spectrometry, alignment, 
 
 1.6. **HAMM - Counting Point Mutations**:  [[info]](https://rosalind.info/problems/hamm/) [[code]](https://github.com/AdrianaAceroFV/ROSALIND/blob/59be35e03785557e5b967614016dd2052986c31f/CODE/HAMM.py)
 
+1.7. **IPRB - Mendel's First Law**:  [[info]](https://rosalind.info/problems/iprb/) [[code]](https://github.com/AdrianaAceroFV/ROSALIND/blob/bb8118342c58bb415791cd5913d6aa83696fe067/CODE/IPRB.py)
+
 ## 2. Bioinformatics Armory
 Ready-to-use software tools abound for bioinformatics analysis. In the Armory are similar problems by using existing tools.
