@@ -23,5 +23,7 @@ A variety of bioinformatics topics: computational mass spectrometry, alignment, 
 
 1.8. **PROT - Translating RNA into Protein**:  [[info]](https://rosalind.info/problems/prot/) [[code]](https://github.com/AdrianaAceroFV/ROSALIND/blob/ac25af4375d74dbc3bfcb8a73969023ee1484244/CODE/PROT.py)
 
+1.9. **SUBS - Finding a Motif in DNA**:  [[info]](https://rosalind.info/problems/subs/) [[code]](https://github.com/AdrianaAceroFV/ROSALIND/blob/da589f666b6d240ae1703afb276d64ea4b875220/CODE/SUBS.py)
+
 ## 2. Bioinformatics Armory
 Ready-to-use software tools abound for bioinformatics analysis. In the Armory are similar problems by using existing tools.
