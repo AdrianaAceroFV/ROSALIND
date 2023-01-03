@@ -25,5 +25,8 @@ A variety of bioinformatics topics: computational mass spectrometry, alignment, 
 
 1.9. **SUBS - Finding a Motif in DNA**:  [[info]](https://rosalind.info/problems/subs/) [[code]](https://github.com/AdrianaAceroFV/ROSALIND/blob/da589f666b6d240ae1703afb276d64ea4b875220/CODE/SUBS.py)
 
+1.10. **CONS - 	Consensus and Profile**:  [[info]](https://rosalind.info/problems/cons/) [[code]](https://github.com/AdrianaAceroFV/ROSALIND/blob/427510a418da18f5a603739ea975f4988eaf3558/CODE/CONS.py)
+
+
 ## 2. Bioinformatics Armory
 Ready-to-use software tools abound for bioinformatics analysis. In the Armory are similar problems by using existing tools.
