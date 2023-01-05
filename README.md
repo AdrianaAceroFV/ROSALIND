@@ -33,7 +33,7 @@ A variety of bioinformatics topics: computational mass spectrometry, alignment, 
 
 1.13. **IEV - 	Calculating Expected Offspring**:  [[info]](https://rosalind.info/problems/iev/) [[code]](https://github.com/AdrianaAceroFV/ROSALIND/blob/87b868a754d40931ff1278bcd78e363a984722ee/CODE/IEV.py)
 
-1.14. **IEV - 	Calculating Expected Offspring**:  [[info]](https://rosalind.info/problems/lcsm/) [[code]](https://github.com/AdrianaAceroFV/ROSALIND/blob/2ae3c12ef31e71667e257908fbf87eabcfed6d48/CODE/LCSM.py)
+1.14. **LCSM - 	Finding a Shared Motif**:  [[info]](https://rosalind.info/problems/lcsm/) [[code]](https://github.com/AdrianaAceroFV/ROSALIND/blob/2ae3c12ef31e71667e257908fbf87eabcfed6d48/CODE/LCSM.py)
 
 
 ## 2. Bioinformatics Armory
