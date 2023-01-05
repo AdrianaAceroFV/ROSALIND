@@ -27,6 +27,10 @@ A variety of bioinformatics topics: computational mass spectrometry, alignment, 
 
 1.10. **CONS - 	Consensus and Profile**:  [[info]](https://rosalind.info/problems/cons/) [[code]](https://github.com/AdrianaAceroFV/ROSALIND/blob/427510a418da18f5a603739ea975f4988eaf3558/CODE/CONS.py)
 
+1.11. **FIBD - 	Mortal Fibonacci Rabbits**:  [[info]](https://rosalind.info/problems/fibd/) [[code]](https://github.com/AdrianaAceroFV/ROSALIND/blob/1a3b09a5f2db2554b8278b59c1659120fd486104/CODE/FIBD.py)
+
+1.12. **GRPH - 	Overlap Graphs**:  [[info]](https://rosalind.info/problems/grph/) [[code]](https://github.com/AdrianaAceroFV/ROSALIND/blob/1a3b09a5f2db2554b8278b59c1659120fd486104/CODE/GRPH.py)
+
 
 ## 2. Bioinformatics Armory
 Ready-to-use software tools abound for bioinformatics analysis. In the Armory are similar problems by using existing tools.
