@@ -31,6 +31,8 @@ A variety of bioinformatics topics: computational mass spectrometry, alignment, 
 
 1.12. **GRPH - 	Overlap Graphs**:  [[info]](https://rosalind.info/problems/grph/) [[code]](https://github.com/AdrianaAceroFV/ROSALIND/blob/1a3b09a5f2db2554b8278b59c1659120fd486104/CODE/GRPH.py)
 
+1.13. **IEV - 	Calculating Expected Offspring**:  [[info]](https://rosalind.info/problems/iev/) [[code]](https://github.com/AdrianaAceroFV/ROSALIND/blob/87b868a754d40931ff1278bcd78e363a984722ee/CODE/IEV.py)
+
 
 ## 2. Bioinformatics Armory
 Ready-to-use software tools abound for bioinformatics analysis. In the Armory are similar problems by using existing tools.
