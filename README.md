@@ -35,6 +35,8 @@ A variety of bioinformatics topics: computational mass spectrometry, alignment, 
 
 1.14. **LCSM - 	Finding a Shared Motif**:  [[info]](https://rosalind.info/problems/lcsm/) [[code]](https://github.com/AdrianaAceroFV/ROSALIND/blob/2ae3c12ef31e71667e257908fbf87eabcfed6d48/CODE/LCSM.py)
 
+1.15. **LIA - 	Independent Alleles**:  [[info]](https://rosalind.info/problems/lia/) [[code]](https://github.com/AdrianaAceroFV/ROSALIND/blob/f7163c08d8882317f7ccba47217d7ed9dbf471a8/CODE/LIA.py)
+
 
 ## 2. Bioinformatics Armory
 Ready-to-use software tools abound for bioinformatics analysis. In the Armory are similar problems by using existing tools.
