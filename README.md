@@ -37,6 +37,8 @@ A variety of bioinformatics topics: computational mass spectrometry, alignment, 
 
 1.15. **LIA - 	Independent Alleles**:  [[info]](https://rosalind.info/problems/lia/) [[code]](https://github.com/AdrianaAceroFV/ROSALIND/blob/f7163c08d8882317f7ccba47217d7ed9dbf471a8/CODE/LIA.py)
 
+1.16. **MPRT - 	Finding a Protein Motif**:  [[info]](https://rosalind.info/problems/mprt/) [[code]](https://github.com/AdrianaAceroFV/ROSALIND/blob/1bfd4e884148df31b94acb654025d627aac52e5a/CODE/MPRT.py)
+
 
 ## 2. Bioinformatics Armory
 Ready-to-use software tools abound for bioinformatics analysis. In the Armory are similar problems by using existing tools.
