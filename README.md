@@ -39,6 +39,8 @@ A variety of bioinformatics topics: computational mass spectrometry, alignment, 
 
 1.16. **MPRT - 	Finding a Protein Motif**:  [[info]](https://rosalind.info/problems/mprt/) [[code]](https://github.com/AdrianaAceroFV/ROSALIND/blob/1bfd4e884148df31b94acb654025d627aac52e5a/CODE/MPRT.py)
 
+1.17. **MRNA - 	Inferring mRNA from Protein**:  [[info]](https://rosalind.info/problems/mrna/) [[code]](https://github.com/AdrianaAceroFV/ROSALIND/blob/b0e4cbb4b08d795675a723ccb7a7ac3a7285895d/CODE/MRNA.py)
+
 
 ## 2. Bioinformatics Armory
 Ready-to-use software tools abound for bioinformatics analysis. In the Armory are similar problems by using existing tools.
