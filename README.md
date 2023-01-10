@@ -41,6 +41,8 @@ A variety of bioinformatics topics: computational mass spectrometry, alignment, 
 
 1.17. **MRNA - 	Inferring mRNA from Protein**:  [[info]](https://rosalind.info/problems/mrna/) [[code]](https://github.com/AdrianaAceroFV/ROSALIND/blob/b0e4cbb4b08d795675a723ccb7a7ac3a7285895d/CODE/MRNA.py)
 
+1.18. **PMCH - 	Perfect Matchings and RNA Secondary Structures**:  [[info]](https://rosalind.info/problems/pmch/) [[code]](https://github.com/AdrianaAceroFV/ROSALIND/blob/eb7a1159ef39bdfabf791944137563ef0e2b8334/CODE/PMCH.py)
+
 
 ## 2. Bioinformatics Armory
 Ready-to-use software tools abound for bioinformatics analysis. In the Armory are similar problems by using existing tools.
