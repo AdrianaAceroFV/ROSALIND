@@ -45,5 +45,7 @@ A variety of bioinformatics topics: computational mass spectrometry, alignment, 
 
 1.19. **PERM - 	Enumerating Gene Orders**:  [[info]](https://rosalind.info/problems/perm/) [[code]](https://github.com/AdrianaAceroFV/ROSALIND/blob/09f9288dc9e3f33ca0e5bc0d661e02c660f6b4f9/CODE/PERM.py)
 
+1.20. **PRTM - 	Calculating Protein Mass**:  [[info]](https://rosalind.info/problems/prtm/) [[code]](https://github.com/AdrianaAceroFV/ROSALIND/blob/20f6168f080dc1242139efc376164ac36db4215c/CODE/PRTM.py)
+
 ## 2. Bioinformatics Armory
 Ready-to-use software tools abound for bioinformatics analysis. In the Armory are similar problems by using existing tools.
