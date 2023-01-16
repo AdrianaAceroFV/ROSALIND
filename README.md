@@ -49,5 +49,7 @@ A variety of bioinformatics topics: computational mass spectrometry, alignment, 
 
 1.21. **SPLC - 	RNA Splicing**:  [[info]](https://rosalind.info/problems/splc/) [[code]](https://github.com/AdrianaAceroFV/ROSALIND/blob/5096f96b1d1245f47616eb2d193081bfd8b2534a/CODE/SPLC.py)
 
+1.22. **LEXF - 	Enumerating k-mers Lexicographically**:  [[info]](https://rosalind.info/problems/lexf/) [[code]](https://github.com/AdrianaAceroFV/ROSALIND/blob/6b85648c86a9b2b14f49d44b9072400d5555d8b2/CODE/LEXF.py)
+
 ## 2. Bioinformatics Armory
 Ready-to-use software tools abound for bioinformatics analysis. In the Armory are similar problems by using existing tools.
