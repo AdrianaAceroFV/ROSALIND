@@ -51,5 +51,7 @@ A variety of bioinformatics topics: computational mass spectrometry, alignment, 
 
 1.22. **LEXF - 	Enumerating k-mers Lexicographically**:  [[info]](https://rosalind.info/problems/lexf/) [[code]](https://github.com/AdrianaAceroFV/ROSALIND/blob/6b85648c86a9b2b14f49d44b9072400d5555d8b2/CODE/LEXF.py)
 
+1.23. **PPER - 	Partial Permutations**:  [[info]](https://rosalind.info/problems/pper/) [[code]](https://github.com/AdrianaAceroFV/ROSALIND/blob/af0e70479fbf81e8629fc3780fe9828d1faa1d12/CODE/PPER.py)
+
 ## 2. Bioinformatics Armory
 Ready-to-use software tools abound for bioinformatics analysis. In the Armory are similar problems by using existing tools.
