@@ -57,6 +57,8 @@ A variety of bioinformatics topics: computational mass spectrometry, alignment, 
 
 1.25. **SSEQ - 	Finding a Spliced Motif**:  [[info]](https://rosalind.info/problems/sseq/) [[code]](https://github.com/AdrianaAceroFV/ROSALIND/blob/0326b77a2ebae0dc3633e6ccc08b51407b4a827b/CODE/SSEQ.py)
 
+1.26. **SIGN - 	Enumerating Oriented Gene Orderings**:  [[info]](https://rosalind.info/problems/sign/) [[code]](https://github.com/AdrianaAceroFV/ROSALIND/blob/2e9ae425e7d1b9058e0c44755fc91e8c48535d27/CODE/SIGN.py)
+
 
 ## 2. Bioinformatics Armory
 Ready-to-use software tools abound for bioinformatics analysis. In the Armory are similar problems by using existing tools.
