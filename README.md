@@ -7,7 +7,7 @@ My profile: https://rosalind.info/users/Adriana_A0/
 ## 1. Bioinformatics Stronghold
 A variety of bioinformatics topics: computational mass spectrometry, alignment, dynamic programming, genome assembly, genome rearrangements, phylogeny, probability, string algorithms and others.
 
-1.1. **DNA - Counting Cucleotides**: [[info]](https://rosalind.info/problems/dna/) [[code]](https://github.com/AdrianaAceroFV/ROSALIND/blob/8f1cad1650caf6a8a39c5104978e45c7e3c05e89/CODE/DNA.py)
+1.1. **DNA - Counting Nucleotides**: [[info]](https://rosalind.info/problems/dna/) [[code]](https://github.com/AdrianaAceroFV/ROSALIND/blob/8f1cad1650caf6a8a39c5104978e45c7e3c05e89/CODE/DNA.py)
 
 1.2. **RNA - Transcribing DNA into RNA**:  [[info]](https://rosalind.info/problems/rna/) [[code]](https://github.com/AdrianaAceroFV/ROSALIND/blob/8f1cad1650caf6a8a39c5104978e45c7e3c05e89/CODE/RNA.py)
 
