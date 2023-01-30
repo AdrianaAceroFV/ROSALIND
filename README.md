@@ -59,6 +59,8 @@ A variety of bioinformatics topics: computational mass spectrometry, alignment, 
 
 1.26. **SIGN - 	Enumerating Oriented Gene Orderings**:  [[info]](https://rosalind.info/problems/sign/) [[code]](https://github.com/AdrianaAceroFV/ROSALIND/blob/2e9ae425e7d1b9058e0c44755fc91e8c48535d27/CODE/SIGN.py)
 
+1.27. **TRAN - 	Transitions and Transversions**:  [[info]](https://rosalind.info/problems/tran/) [[code]](https://github.com/AdrianaAceroFV/ROSALIND/blob/699beec60ac31a392696836c0afe775924cc8b70/CODE/TRAN.py)
+
 
 ## 2. Bioinformatics Armory
 Ready-to-use software tools abound for bioinformatics analysis. In the Armory are similar problems by using existing tools.
